@@ -1,4 +1,4 @@
-# 🗄️ SQL Portfolio — Week 1 Data Engineering Sprint
+# 🗄️ SQL Practice Portfolio 
 
 > **Prince Davariya** · MSc Data Engineering & Cloud Computing · aivancity, France  
 > 📍 [GitHub](https://github.com/PrinceDavariya) · [LinkedIn](https://linkedin.com/in/prince-davariya-406148247)
@@ -7,7 +7,6 @@
 
 ## 📌 About This Repository
 
-This repository documents my **Week 1 SQL work** as part of a focused 30-day Data Engineering learning sprint.
 
 It covers everything from foundational querying to analytical SQL patterns used in real data engineering roles — including joins, aggregations, CTEs, window functions, and a full data modeling exercise.
 
@@ -138,21 +137,8 @@ Danny's Diner is a restaurant that wants to understand customer visiting pattern
 | [DB Fiddle](https://www.db-fiddle.com/) | Query testing and schema validation |
 | [dbdiagram.io](https://dbdiagram.io) | Schema design and ERD diagrams |
 
----
-
-## 📈 What's Next
-
-This is **Week 1** of a 30-day Data Engineering sprint. Coming up:
-
-- **Week 2** — Python ETL pipelines (pandas, APIs, Parquet, data validation)
-- **Week 3** — Apache Airflow orchestration + PySpark basics
-- **Week 4** — Cloud (AWS/GCP), end-to-end capstone project, interview prep
-
-Follow along on [LinkedIn](https://linkedin.com/in/prince-davariya-406148247) for weekly updates.
-
----
-
 ## 👤 About Me
+
 
 I'm an MSc Data Engineering & Cloud Computing student at **aivancity** (France), transitioning from a frontend development background into data engineering and AI.
 
